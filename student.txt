@@ -1,3 +1,4 @@
-Name: Namratha B K
-USN: 1GC25IS007
-Section: 3rd Semester C
+Name: Thaneesha
+USN: 1GC25IS011
+YEAR: 2nd YEAR
+Section: A Section
