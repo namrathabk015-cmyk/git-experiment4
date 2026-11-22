@@ -1,4 +1,4 @@
 Name: Thaneesha
 USN: 1GC25IS011
 YEAR: 2nd YEAR
-Section: A Section
+Section: A SECTION
